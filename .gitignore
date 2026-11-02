@@ -1,0 +1,7 @@
+.DS_Store
+.lgtv-key.json
+venv/
+__pycache__/
+/app/icons/
+build/*.ipk
+SHA256SUMS.txt
