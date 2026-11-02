@@ -11,7 +11,7 @@ GlassOS for webOS is an independent, remote-friendly home screen for LG TVs runn
 
 ## Screenshots
 
-The home-screen image below is a straightened, screenshot-style crop of GlassOS running on an LG TV. The other images show the settings panel, the DVD Bounce prompt in Zen Mode, and the app’s splash/about screen.
+The home-screen image below is a straightened, screenshot-style crop of GlassOS running on an LG TV. The other images show the settings panel, the DVD Bounce prompt in Zen Mode, and the Zen Mode entry button.
 
 <p align="center"><img src="assets/screenshots/glassos-home-screen.png" alt="GlassOS home screen on an LG TV, showing the clock, weather, top controls and app dock." width="880"></p>
 
@@ -22,7 +22,7 @@ The home-screen image below is a straightened, screenshot-style crop of GlassOS 
   </tr>
 </table>
 
-<p align="center"><strong>Splash screen and About area</strong><br><img src="assets/screenshots/glassos-splash.png" alt="GlassOS splash and About screen with the creator signature." width="600"></p>
+<p align="center"><strong>Enter Zen Mode for a distraction free experience</strong><br><img src="assets/screenshots/glassos-zen-entry.png" alt="GlassOS Zen Mode button on a dark background." width="440"></p>
 
 ## What GlassOS does
 
