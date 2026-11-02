@@ -1,5 +1,7 @@
 # GlassOS (for webOS)
 
+<p align="center"><img src="assets/glassos-logo.jpg" alt="GlassOS logo" width="220"></p>
+
 ### GlassOS for webOS — a glassy launcher for LG TVs
 
 **GitHub project name:** GlassOS (for webOS)  
