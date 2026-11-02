@@ -93,6 +93,10 @@ Edit `app/config.js` to set:
 
 The starter `app/apps.js` contains no TV-specific data. The installer reads the installed apps and input names from your TV and generates this file, along with the app icons it needs. Check the generated files before sharing or committing your working copy. The synced icons in `app/icons/` come from the connected TV and are excluded from the public source copy; the installer regenerates them for each TV. The high-resolution logo master is `assets/glassos-icon-final.png`; each install regenerates the required 80×80 and 130×130 app icons from it, and GlassOS's own app tile uses the high-resolution master.
 
+### Make the footer your own
+
+The footer includes the creator logo and © line. Feel free to replace them with your own logo and copyright text, or remove both to leave just the Zen Mode icon at the bottom for a cleaner look. The logo and footer markup are in `app/alex-signature.png` and `app/index.html`.
+
 ## Install on an LG webOS TV
 
 GlassOS is a non-invasive launcher app: it does not require rooting the TV, hacking webOS, or replacing system software. Installation uses the TV’s built-in Developer Mode with Key Server enabled, plus the webOS developer tools to install the app.

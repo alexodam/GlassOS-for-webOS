@@ -5,3 +5,4 @@ __pycache__/
 /app/icons/
 build/*.ipk
 SHA256SUMS.txt
+build/*.zip
